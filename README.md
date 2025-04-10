@@ -1,2 +1,3 @@
-# ncs2
-ncsc2
+#   Networks and Complex Systems
+##  Assignment 2
+
